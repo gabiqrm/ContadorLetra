@@ -20,7 +20,7 @@ https://gabiqrm.github.io/ContadorLetra/
 
 ## 📋 Sobre:
 
-Contador de letras criado na aula do professor Rafael Gomide, no curso de Desenvolvedor FullStack do IGTI, que consiste no estudo de eventos, no qual uma linha de texto que representa o tipo de evento a ser esperado. Para registrar mais de uma espera de evento como alvo, chame addEventListener() para o mesmo alvo mas com diferentes tipos de evento ou captura de parâmetros.
+Contador de letras desenvolvido durante uma aula do professor Rafael Gomide, no Bootcamp Desenvolvimento Fullstack disponibilizado pelo IGTI, que consiste no estudo de eventos. Uma linha de texto representa o tipo de evento a ser esperado. Para registrar mais de uma espera de evento como alvo, chame addEventListener() para o mesmo alvo mas com diferentes tipos de evento ou captura de parâmetros.
 
 ---
 ## ⚙️ Tecnologias:
