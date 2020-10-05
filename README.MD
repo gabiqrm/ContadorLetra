@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-   <img src="image/logo.jpg" alt="ContadorLetra"/>
+   <img src="image/logo.png" alt="ContadorLetra"/>
 </p>
 
 <div align="center">
