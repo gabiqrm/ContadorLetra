@@ -1,9 +1,6 @@
 # Contador de Letras 🔢
 ---
-## Acesso Rápido:
-https://gabiqrm.github.io/ContadorLetra/
 
----
 <p align="center">
    <img src="image/logo.png" alt="ContadorLetra"/>
 </p>
@@ -15,6 +12,11 @@ https://gabiqrm.github.io/ContadorLetra/
 </div>
 
 ---
+## Acesso Rápido:
+https://gabiqrm.github.io/ContadorLetra/
+
+---
+
 ## 📋 Sobre:
 
 Esse é um estudo de eventos, no qual uma linha de texto que representa o tipo de evento a ser esperado. Listener: O objeto que recebe uma notificação quando um evento do tipo especificado ocorre. Esse objeto precisa implementar a interface do EventListener, ou simplesmente executar uma função JavaScript. Com isso criei um contador de letras.
