@@ -1,5 +1,7 @@
 # Contador de Letras 🔢
 
+---
+
 <p align="center">
    <img src="image/logo.png" alt="ContadorLetra"/>
 </p>
