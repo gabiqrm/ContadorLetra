@@ -1,5 +1,4 @@
 # Contador de Letras 🔢
----
 
 <p align="center">
    <img src="image/logo.png" alt="ContadorLetra"/>
@@ -12,7 +11,7 @@
 </div>
 
 ---
-## Acesso Rápido:
+## 🔎 Acesso Rápido:
 https://gabiqrm.github.io/ContadorLetra/
 
 ---
