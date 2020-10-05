@@ -20,7 +20,7 @@ https://gabiqrm.github.io/ContadorLetra/
 
 ## 📋 Sobre:
 
-Esse é um estudo de eventos, no qual uma linha de texto que representa o tipo de evento a ser esperado. Listener: O objeto que recebe uma notificação quando um evento do tipo especificado ocorre. Esse objeto precisa implementar a interface do EventListener, ou simplesmente executar uma função JavaScript. Com isso criei um contador de letras.
+Contador de letras criado na aula do professor Rafael Gomide, no curso de Desenvolvedor FullStack do IGTI, que consiste no estudo de eventos, no qual uma linha de texto que representa o tipo de evento a ser esperado. Para registrar mais de uma espera de evento como alvo, chame addEventListener() para o mesmo alvo mas com diferentes tipos de evento ou captura de parâmetros.
 
 ---
 ## ⚙️ Tecnologias:
