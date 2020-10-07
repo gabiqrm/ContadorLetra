@@ -37,8 +37,8 @@ Existem vários tipos diferentes de eventos que podem vir a acontecer, por exemp
 - Um erro ocorrendo. <br />
 
 Existem diversas maneiras de se aplicar esses eventos aos elementos HTML, são elas:<br />
--Inline<br />
--Em um arquivo externo, usando um manipulador de eventos.<br />
+- Inline<br />
+- Em um arquivo externo, usando um manipulador de eventos.<br />
 
 Cada evento disponivel possui um manipulador de eventos (event handler), que é um bloco de código (geralmente uma função JavaScript definida pelo usuário) que será executado quando o evento for disparado. <br />
 Quando esse bloco de código é definido para rodar em resposta a um evento que foi disparado, nós dizemos que estamos registrando um manipulador de eventos. <br />
@@ -69,7 +69,7 @@ Após o browser ler seu documento HTML, ele cria um objeto que faz uma represent
 - onMouseOut - define ação quando o usuário retira o mouse sobre o elemento<br />
 - onSubmit - define ação ao enviar um formulário<br />
 
-[Saiba Mais!] (https://desenvolvimentoparaweb.com/javascript/eventos-javascript/)
+[ Saiba Mais! ](https://desenvolvimentoparaweb.com/javascript/eventos-javascript/)
 
 
 ---
