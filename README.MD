@@ -82,16 +82,20 @@ Após o browser ler seu documento HTML, ele cria um objeto que faz uma represent
 
 ---
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução:
+1. Clonar via prompt de comando o projeto em uma pasta de sua preferência:
+```bash
+$ git clone https://github.com/gabiqrm/ContadorLetra.git
 ```
-1. Clonar via prompt de comando o projeto em uma pasta de sua preferência: `git clone https://github.com/ContadorLetra`
-2. Acessar a pasta principal do projeto via prompt de comando. Ex: `cd ContadorLetra`;
+2. Acessar a pasta principal do projeto via prompt de comando.
+```bash
+$ cd ContadorLetra
+```
 3. Na pasta raiz, executar o arquivo: `index.html`
-```
 
 ---
 ## 🔗 Contribuições:
 ```
-- Faça o fork do projeto (https://github.com/ContadorLetra)
+- Faça o fork do projeto (https://github.com/gabiqrm/ContadorLetra.git)
 - Crie uma branch para sua modificação (git checkout -b feature/[nome])
 - Faça o commit (git commit -am 'Add files [nome]')
 - Push (git push origin feature/[nome])
